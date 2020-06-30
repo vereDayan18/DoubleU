@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="msg_subscribed">Message subscribed</string>
+    <string name="msg_subscribe_failed">Messages subscribed failed</string>
+</resources>
